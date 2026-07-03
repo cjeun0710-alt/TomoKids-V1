@@ -174,7 +174,7 @@ export const KidsMode: React.FC<KidsModeProps> = ({
           </div>
           <div>
             <h1 className="text-2xl sm:text-3xl font-extrabold text-indigo-950 tracking-tight flex flex-wrap items-baseline gap-2">
-              스마트 키즈 보드
+              키즈 보드
               <span className="text-indigo-600 font-black text-base sm:text-lg bg-indigo-50/80 px-2.5 py-0.5 rounded-xl border border-indigo-100/80 shadow-3xs">
                 나만의 탐험 지도
               </span>
