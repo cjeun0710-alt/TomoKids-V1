@@ -1,0 +1,6 @@
+{
+  "name": "스마트 키즈 보드",
+  "description": "아이의 일상 루틴과 학습을 게임처럼 즐겁게 완수하고, 부모와 아이의 긍정적인 상호작용을 돕는 연결형 대시보드",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
